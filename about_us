@@ -1,0 +1,479 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+                <title>About: Vflyus</title>
+
+
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700" rel="stylesheet">
+
+    <!-- Animate.css -->
+    <link rel="stylesheet" href="css/animate.css">
+    <!-- Icomoon Icon Fonts-->
+    <link rel="stylesheet" href="css/icomoon.css">
+    <!-- Bootstrap  -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+
+    <!-- Magnific Popup -->
+    <link rel="stylesheet" href="css/magnific-popup.css">
+
+    <!-- Flexslider  -->
+    <link rel="stylesheet" href="css/flexslider.css">
+
+    <!-- Owl Carousel -->
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+
+    <!-- Date Picker -->
+    <link rel="stylesheet" href="css/bootstrap-datepicker.css">
+    <!-- Flaticons  -->
+    <link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
+
+    <!-- Theme style  -->
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- Modernizr JS -->
+    <script src="js/modernizr-2.6.2.min.js"></script>
+    <!-- FOR IE9 below -->
+    <!--[if lt IE 9]>
+    <script src="js/respond.min.js"></script>
+    <![endif]-->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YZQ5QE33WX"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-YZQ5QE33WX');
+    </script>
+
+    <!-- Google Webmaster -->
+    <meta name="google-site-verification" content="_M8XDhOPXbQiPSSUldCsTDodldGAlT32PWmlwz-bHCs" />
+
+    <!-- Start of vflyuscom Zendesk Widget script -->
+    <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=f3d7a8ba-3840-4d65-8315-45b1a65f1642"></script>
+    <!-- End of vflyuscom Zendesk Widget script -->
+
+</head>
+<body>
+    <div class="colorlib-loader"></div>
+
+    <div id="page">
+        
+<div class="top-headinmore">
+    <div class="container">
+        <ul class="protect-symbol">
+            <li class="emailistest"><a href="mailto:booking@vflyus.com"><i class="fa fa-envelope-o"></i> booking@vflyus.com</a></li>
+        </ul>
+
+    </div>
+
+</div>
+<nav class="colorlib-nav" role="navigation">
+    <div class="">
+        <div class="container">
+            <div class="row">
+                <div class="col-4 col-lg-2">
+                    <div id="colorlib-logo"><a href="index.html"><img src="images/logo.png" alt=""></a></div>
+                </div>
+                
+                <div class="col-6 col-lg-7" style="border-radius: 6px;">
+                    <div class="colorlib-logo-phone d-block d-sm-none">
+                        <a href="tel:&#x2B;1-240-654-0444" class="header-content2__call">
+                            <span style="font-size:18px">&#x2B;1-240-654-0444</span>
+                        </a>
+                    </div>
+                        <div class="top-menu">
+
+                            <div class="text-left menu-1">
+                                <ul>
+                                    <li><a href="index.html">Home</a></li>
+                                    <li><a href="flights">Flights</a></li>
+                                    <li><a href="businessclass">Business Class</a></li>
+                                    <li><a href="airline_deals">Airline Deals</a></li>
+                                    <li><a href="contact_us">Contact Us</a></li>
+
+                                </ul>
+
+                            </div>
+                        </div>
+                </div>
+                
+                <div class="col-12 col-lg-3 pull-right">
+                    <div class="colorlib-logo-phone">
+                        <a href="tel:&#x2B;1-240-654-0444" class="header-content2__call">
+                            <img src="images/gfc/call.png" alt="call">
+                            <div class="header-content2__call__phone-number">
+                                <p>Call Us Today!</p>
+                                <span>&#x2B;1-240-654-0444</span>
+                            </div>
+                        </a>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+</nav>
+
+        
+
+<header class="inner-page-header inner-page-header-1">
+    <div class="inner-header-shape"></div>
+    <div class="container">
+        <div class="header-content m-auto">
+            <h1>About Us</h1>
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="https://www.vflyus.com/index.html">Home</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">About Us</li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+</header>
+
+
+<div class="about-area pt-120 ">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-6">
+                <div class="about-left">
+                    <div class="about-img">
+                        <img src="images/gfc/aboutusinner.jpg" alt="" />
+                      
+                    </div>
+                    
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="about-right">
+                    <div class="site-header">
+                        <span class="site-title-tagline">About Us</span>
+
+                    </div>
+                    <p class="about-text">
+                        Vflyus is one of the best flight booking agencies founded to provide the ultimate travel experience at an affordable price. Our company is based in the United States. Our journey began in 2020 with a clear vision of providing inexpensive airline tickets to our customers. You can visit our website and find cheap air tickets on any national or international flight. We searched and found some amazing deals and offers which are not usually published on the airline's official websites. So, we offer those deals on our website. This allows our customers to save lots of time and money on their flight reservations.
+                    </p>
+
+                    <p class="about-text">
+                        We are using the latest digital tools which help us to gather best fare deals from various airlines. It helps us to analyze and find the best deals and seasonal offers. This helps our customers to enjoy affordable trips to different destinations. You can use it by visiting our website or by calling our customer service. We have also partnered with hundreds of airlines that are working with us to bring you the best deals on your flight reservations. If you are looking for an individual plan as a family, student, honeymoon, group, military, or even solo trip, contact our experienced travel agents who will assist you with the best deals available.
+                    </p>
+                    <p class="about-text">
+                        At Vflyus we are constantly updating our website to make it convenient for our customers to book airline tickets seamlessly across multiple devices. You can call our customer care executive who will help you to find flight deals even in the last minutes of your trip.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="placetop">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6">
+                <div class="matter">
+                    <div class="imgs">
+                        <img src="images/gfc/m1.png" alt="icon1" title="icon1" class="img-responsive">
+                    </div>
+                    <h1>MISSION</h1>
+                    <p>We provide tailor made travel services for our clients. We aim at taking the goodwill of the company to scaling heights and we strive hard to get you the best of the services that are customized as per your choice and budget.</p>
+                   
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="matter" style="border:none;">
+                    <div class="imgs">
+                        <img src="images/gfc/m2.png" alt="icon2" title="icon2" class="img-responsive">
+                    </div>
+                    <h1>VISION</h1>
+                    <p>
+                        Our team can help you with all your project and needs. We are so confident in our expertise that we guarantee you will be satisfied beyond expectations.
+                    </p>
+                   
+                </div>
+            </div>
+            <div class="col-sm-12">
+                <div class="matter" style="min-height:inherit;">
+                    <div class="imgs">
+                        <img src="images/gfc/m3.png" alt="icon3" title="icon3" class="img-responsive">
+                    </div>
+                    <h1>VALUES</h1>
+                    <p>
+                        Our company has always abided by the value of customer satisfaction. For us attaining the highest level of customer satisfaction is primarily important.
+                    </p>
+                  
+                </div>
+            </div>
+            <div class="col-sm-12">
+                <div class="matter" style="border:none; min-height:inherit;">
+                    <div class="imgs">
+                        <img src="images/gfc/m4.png" alt="icon4" title="icon4" class="img-responsive">
+                    </div>
+                    <h1>WHY US ?</h1>
+                    <p>
+                        Our travel services are unmatched. With many years' experience in the field, we understand the varying needs of clients. So therefore deliver customized services that suit your budget and demands. Walk in with an idea and leave the rest upon our experts. From flight bookings to itinerary managements, tour packages for your favorite destination to hotel reservations, you get it all with Vflyus.
+                    </p>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+  
+
+
+        
+
+<div class="newsletter-bg">
+    <div class="container">
+        <div class="newsletter">
+            <div class="newsletter-inner text-center text-lg-left">
+                <div class="row justify-content-center">
+                    <div class=" col-xl-10 col-12">
+                        <div class="row">
+                            <div class="col-xl-6 col-lg-6">
+                                <div class="d-lg-flex">
+                                    <div class="newsletter-icon"><img src="images/gfc/subscribe_icon.svg" alt=""></div>
+                                    <div class="newsletter-title color-white">
+                                        <h2 class="main_title mb-0">Get Updates &amp; More</h2>
+                                        <p class="m-0">Thoughtful thoughts to your inbox</p>
+                                    </div>
+                                </div>
+                            </div>
+                           
+                            <div class="col-xl-6 col-lg-6">
+                                <form>
+                                    <div class="newsletter-box">
+                                        <input type="email" placeholder="Email Here...">
+                                        <button title="Subscribe" class="btn btn-color">Subscribe</button>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<footer class="footer-area pt-100">
+    <div class="footer-widget">
+        <div class="container">
+            <div class="row footer-widget-wrapper pb-50">
+                <div class="col-md-6 col-lg-4  col-12">
+                    <div class="footer-widget-box about-us">
+                        
+                        <p class="mb-20">
+                            Vflyus is a leading travel service provider who caters to all your travel related needs. Through our dedicated approach and customer friendly packages, we have carved a niche for the brand.
+                        </p>
+                        <h4>Keep In Touch</h4>
+
+                       
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-2 col-12">
+                    <div class="footer-widget-box list">
+                        <h4 class="footer-widget-title">Useful Links</h4>
+                        <ul class="footer-list">
+
+
+                            <li><a href="flights">Flight Tickets</a></li>
+                            
+                            <li><a href="phoneOnlyDeals">Phone Only Deal</a></li>
+                            <li><a href="cookie_policy"> Cookie Policy </a></li>
+                            <li><a href="faq"> FAQ </a></li>
+
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3  col-12">
+                    <div class="footer-widget-box">
+                        <h4 class="footer-widget-title">Contact Us</h4>
+                        <ul class="footer-contact">
+                            <li><i class="fa fa-map-marker"></i>21030-G Frederick Road Suite 125 Germantown, MD 20876</li>
+                            <li><a href="tel:&#x2B;1-240-654-0444"><i class="fa fa-phone"></i>&#x2B;1-240-654-0444</a></li>
+                            <li>
+                                <a href="mailto:booking@vflyus.com"><i class="fa fa-envelope"></i>booking@vflyus.com</a>
+                            </li>
+                           
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3">
+                    <div class="footer-widget-box list">
+                      
+                        <div class="whatsup-box">
+                            <a href="https://api.whatsapp.com/send?l=en&amp;phone=&#x2B;1-240-643-6238" target="_blank">
+                                <div class="whatsup-message">
+                                    &#x2B;1-240-643-6238
+                                    <div class="whatsup-icon">
+                                        <img src="images/WhatsApp_Icon.png" class="ml-5 mt-5" width="40" height="40" title="Contact us on WhatsApp!" alt="Contact us on WhatsApp!">
+                                    </div>
+                                </div>
+                            </a>
+                            <div class="whatsup-number">Join us on Whatsapp!</div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="copyright">
+        <div class="container">
+           
+            <div class="foot-line-btm">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div style="padding-bottom: 25px;">
+                                <ul class="ft-links">
+                                  
+                                    <li><a href="about_us"> About Us </a></li>
+                                    <li><a href="terms_and_conditions">Terms of Service</a></li>
+                                    <li><a href="privacy_policy">Privacy Policy </a></li>
+                                    <li><a href="terms_and_conditions/cancellation-and-refund-policy">Cancellation and refund Policy </a></li>
+
+
+                                </ul>
+                            </div>
+                            <br />
+                            <div class="pb-25">
+                                <h4 style="color:#fff; font-size:18px; font-weight:bold;"><span style="visibility: inherit;">We Accept</span></h4>
+                                
+
+                                <img src="images/gfc/cards.png" alt=""><img src="images/gfc/paypal.png" alt="">
+                                <div class="clearfix"></div>
+
+                            </div>
+                        </div>
+                        <div class="col-md-6 text-left">
+                            <p class="textrlij">
+                                <small class="block">
+                                    Copyright © 2025 Vflyus. All rights reserved
+
+                                </small>
+
+                            </p>
+                            <p class="textrlij">
+                                <small class="block">
+                                    "The images we used on the site are not copyrighted by us. We have downloaded them from Google. If the images are copyrighted by anyone then please write us for removal."
+                                </small>
+
+                            </p>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</footer>
+
+
+<!-- Cookie Banner -->
+<div class="nk-cookie-banner alert alert-warning text-center mb-0" role="alert">
+    &#x1F36A; This website uses cookies to ensure you get the best experience on our website.
+    <a href="privacy_policy" target="blank" style="color:black">Learn More...</a>
+
+    <button type="button" class="btn btn-primary btn-sm ml-3" onclick="window.nk_hideCookieBanner()">
+        Accept
+    </button>
+</div>
+<!-- End of Cookie Banner -->
+
+<div id="fixed-social">
+    <a href="tel:&#x2B;1-240-654-0444" class="fixed-facebook  clsusbtninfo" target="_blank"><i class=""></i> <span>Call Now</span></a>
+</div>
+
+
+
+
+    </div>
+
+
+    <div class="gototop js-top">
+        <a href="about_us#" class="js-gotop"><i class="icon-arrow-up2"></i></a>
+    </div>
+
+
+    <!-- jQuery -->
+
+
+
+    <script src="js/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+
+    <!-- jQuery Easing -->
+    <script src="js/jquery.easing.1.3.js"></script>
+    <!-- Bootstrap -->
+    <script src="js/bootstrap.min.js"></script>
+    <!-- Waypoints -->
+    <script src="js/jquery.waypoints.min.js"></script>
+    <!-- Flexslider -->
+    <script src="js/jquery.flexslider-min.js"></script>
+    <!-- Owl carousel -->
+    <script src="js/owl.carousel.min.js"></script>
+    <!-- Magnific Popup -->
+    <script src="js/jquery.magnific-popup.min.js"></script>
+    <script src="js/magnific-popup-options.js"></script>
+    <!-- Date Picker -->
+    <script src="js/bootstrap-datepicker.js"></script>
+    <!-- Main -->
+    <script src="js/main.js@v=ckmvatlbG8wnW5iZjXxgJ2zXYqTbwAbkGAjFj3cT-zI"></script>
+    <script src="js/cookie-banner.js@v=UiwT_IEDq3Xfgnwure0uiR7peH5PnKZ4Ctpoub7yOUI"></script>
+    <script>
+
+        $(document).ready(function () {
+            $("#totalPax").click(function () {
+
+                $("#myDropdown_n").show();
+            });
+            $("#done").click(function () {
+                $("#myDropdown_n").hide();
+            });
+
+
+        });
+
+        $(window).scroll(function () {
+            var scroll = $(window).scrollTop();
+
+            if (scroll >= 10) {
+                $(".colorlib-nav .top-menu").addClass("menufixed");
+            } else {
+                $(".colorlib-nav .top-menu").removeClass("menufixed");
+            }
+        });
+
+        $(window).scroll(function () {
+            var scroll = $(window).scrollTop();
+
+            if (scroll >= -1) {
+                $("#fixed-social").addClass("fixeddoiicon");
+            } else {
+                $("#fixed-social").removeClass("fixeddoiicon");
+            }
+        });
+
+
+    </script>
+
+    
+  
+    
+
+</body>
+</html>
