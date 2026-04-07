@@ -4,22 +4,22 @@ window.addEventListener("load", function () {
 
   setTimeout(() => {
     loader.style.display = "none";
-    document.getElementById("content").style.display = "block";
+    document.querySelector(".content").style.display = "block";
   }, 500);
 });
 
 
 document.getElementById("cancelPolicy").onclick = function () {
-  window.location.href = "CancelationPolicy.html";
+  window.location.href = "/cancellation_policy";
 };
 
 
 document.getElementById("about-us").onclick = function () {
-  window.location.href = "about.html";
+  window.location.href = "/about";
 };
 document.getElementById("terms-and-condition").onclick = function () {
-  window.location.href = "terms-and-condition.html";
+  window.location.href = "/terms_and_condition";
 };
 document.getElementById("privacy-policy").onclick = function () {
-  window.location.href = "privacy-policy.html";
+  window.location.href = "/privacy_policy";
 };

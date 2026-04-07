@@ -6,6 +6,23 @@ body {
   font-family: Arial;
   background-color: #ef7d0c21;
 }
+.logo-box{
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    h2{
+      color: deepskyblue;
+    }
+
+}
+.logo-box p {
+    margin: 0;
+    font-size: 12px;
+    color: #ffbf00;
+    font-family: math;
+}
 /* loader */
 .companylogo{
   border-radius: 10px;
@@ -62,10 +79,17 @@ body {
   display: flex;
   align-items: center;
   gap: 10px;
+  padding-left: 50px;
+  text-decoration: none; 
+  color: inherit;   
 }
 
 .nav-left img {
-  width: 40px;
+    height: 85px;
+    width: 90px;
+    position: absolute;
+    left: 0px;
+    top: -4px;
 }
 
 /* CENTER MENU */
@@ -281,7 +305,7 @@ input[type="date"] {
 }
 /* SCROLLBAR */
 ::-webkit-scrollbar {
-  width: 8px;
+  width: 6px;
 }
 
 /* Scrollbar track (background line) */

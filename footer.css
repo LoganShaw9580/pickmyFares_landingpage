@@ -80,19 +80,27 @@
 .whatsapp-box {
   text-align: center;
 }
+.whatsapp-quote{
+    padding-top: 5px;
+    font-size: 12px;
+    font-weight: 800;
+    position: relative;
+    right: 26px;
+}
 
 .whatsapp {
   border: 2px solid limegreen;
-  padding: 10px;
+  padding: 3px;;
   border-radius: 8px;
   color: #fff;
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 83%;
+  width: 78%;
   img {
     height: 30px;
     width: 30px;
+    padding-top: 4px;
   }
 }
 
