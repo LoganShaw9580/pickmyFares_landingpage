@@ -10,6 +10,13 @@ body {
 .companylogo{
   border-radius: 10px;
 }
+.nav-right-content{
+  text-decoration: none;
+    color: white;
+}
+.nav-right-content:hover{
+  color: orange;
+}
 #loader {
   position: fixed;
   width: 100%;
@@ -606,10 +613,10 @@ input[name="trip"] {
 .card:hover img {
   transform: scale(1.1);
 }
-#cancelLink {
+.cancelLink {
   cursor: pointer;
 }
-#cancelLink:hover {
+.cancelLink:hover {
   color: orange;
 }
 
