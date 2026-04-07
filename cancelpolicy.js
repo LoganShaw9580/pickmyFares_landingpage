@@ -9,6 +9,11 @@ window.addEventListener("load", function () {
 });
 
 
-document.getElementById("cancelLink").onclick = function () {
+document.getElementById("cancelPolicy").onclick = function () {
   window.location.href = "CancelationPolicy.html";
+};
+
+
+document.getElementById("about-us").onclick = function () {
+  window.location.href = "about.html";
 };
