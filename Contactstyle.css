@@ -228,6 +228,13 @@ button:hover {
   align-items: center;
   justify-content: center;
 }
+.contact-hero-privacy-policy{
+  height: 250px;
+  background: url("images/policy-banner.jpg") center/cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 
 .about-section {
   position: relative;

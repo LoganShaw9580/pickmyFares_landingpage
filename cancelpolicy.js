@@ -20,3 +20,6 @@ document.getElementById("about-us").onclick = function () {
 document.getElementById("terms-and-condition").onclick = function () {
   window.location.href = "terms-and-condition.html";
 };
+document.getElementById("privacy-policy").onclick = function () {
+  window.location.href = "privacy-policy.html";
+};
