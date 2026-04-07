@@ -209,19 +209,86 @@
   margin-top: -30px;
 }
 
-.contact-hero {
+.contact-hero-cancel {
+  height: 250px;
+  background: url("images/cancelation-policy.jpg") center/cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.contact-hero-terms-and-condition {
   height: 250px;
   background: url("images/tremandcondition.jpg") center/cover;
   display: flex;
   align-items: center;
   justify-content: center;
 }
+/* ===== SECTION ===== */
+.terms-section {
+  padding: 60px 20px;
+}
 
-.contact-hero h1 {
-  color: #0a1f44;
-  font-size: 28px;
-  font-weight: bold;
-  position: absolute;
-  right: 164px;
-  top: 258px;
+/* ===== CONTAINER ===== */
+.terms-container {
+  position: relative;
+  bottom: 105px;
+  max-width: 1100px;
+  margin: auto;
+  background: #fff;
+  padding: 40px;
+  border-radius: 12px;
+}
+
+/* ===== SMALL HEADING ===== */
+.small-heading {
+  font-size: 14px;
+  color: #777;
+  letter-spacing: 1px;
+  margin-bottom: 25px;
+  text-transform: uppercase;
+}
+
+/* ===== BLOCK ===== */
+.term-block {
+  margin-bottom: 35px;
+}
+
+/* ===== TITLE ===== */
+.term-block h3 {
+  font-size: 18px;
+  font-weight: 600;
+  color: #1f2d3d;
+  margin-bottom: 12px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+/* ===== RED SQUARE ===== */
+.term-block h3 span {
+  width: 10px;
+  height: 10px;
+  background: orange;
+  display: inline-block;
+}
+
+/* ===== PARAGRAPH ===== */
+.term-block p {
+  font-size: 15px;
+  color: #444;
+  line-height: 1.8;
+  margin-bottom: 12px;
+}
+
+/* ===== LIST ===== */
+.term-block ul {
+  padding-left: 20px;
+  margin-top: 10px;
+}
+
+.term-block ul li {
+  font-size: 15px;
+  color: #444;
+  margin-bottom: 8px;
+  line-height: 1.7;
 }

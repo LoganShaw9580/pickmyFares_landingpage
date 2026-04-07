@@ -17,3 +17,6 @@ document.getElementById("cancelPolicy").onclick = function () {
 document.getElementById("about-us").onclick = function () {
   window.location.href = "about.html";
 };
+document.getElementById("terms-and-condition").onclick = function () {
+  window.location.href = "terms-and-condition.html";
+};

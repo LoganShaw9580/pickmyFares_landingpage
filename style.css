@@ -10,6 +10,7 @@ body {
 .companylogo{
   border-radius: 10px;
 }
+
 .nav-right-content{
   text-decoration: none;
     color: white;
@@ -280,7 +281,23 @@ input[type="date"] {
 }
 /* SCROLLBAR */
 ::-webkit-scrollbar {
-  width: 0px;
+  width: 8px;
+}
+
+/* Scrollbar track (background line) */
+::-webkit-scrollbar-track {
+  background: black;   /* 👈 yeh black karega line */
+}
+
+/* Scrollbar thumb (moving part) */
+::-webkit-scrollbar-thumb {
+  background: orange;
+  border-radius: 10px;
+}
+
+/* Hover effect (optional) */
+::-webkit-scrollbar-thumb:hover {
+  background: darkorange;
 }
 
 /* POPUP */
