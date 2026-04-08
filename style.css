@@ -86,9 +86,9 @@ body {
 
 .nav-left img {
     height: 85px;
-    width: 90px;
+    width: 135px;
     position: absolute;
-    left: 0px;
+    left: -26px;
     top: -4px;
 }
 
