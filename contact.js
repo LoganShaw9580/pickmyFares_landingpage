@@ -9,11 +9,11 @@ window.addEventListener("load", function () {
 
   setTimeout(() => {
     loader.style.display = "none";
-    document.getElementById("content").style.display = "block";
+    document.querySelector(".content").style.display = 'block'
   }, 500);
 });
-document.getElementById("cancelLink").onclick = function () {
-  window.open("cancellation.html", "_blank");
+document.getElementById("cancelPolicy").onclick = function () {
+  window.open("/cancellation_policy", "_blank");
 };
 
 document.getElementById("contactForm").addEventListener("submit", function(e){
