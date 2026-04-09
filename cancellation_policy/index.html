@@ -5,6 +5,10 @@
     <title>pickmyfares/Cancellationpolicy</title>
     <link rel="stylesheet" href="/style.css" />
     <link rel="stylesheet" href="/footer.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+    />
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
   </head>
   <body>
@@ -592,9 +596,12 @@
 
           <!-- RIGHT -->
           <div class="subscribe-right">
-            <input type="email" placeholder="Email Here..." />
-            <button>Subscribe</button>
+            <input type="email" id="emailInput" placeholder="Email Here..." />
+            <button id="subscribeBtn">Subscribe</button>
           </div>
+
+          <!-- TOOLTIP -->
+          <div id="subscribeMsg">Thanks for subscribing!</div>
         </div>
       </section>
     </div>
@@ -623,8 +630,8 @@
           <ul>
             <li><a href="/">Flight Tickets</a></li>
             <li><a href="/contact_us">Phone Only Deal</a></li>
-            <li>Cookie Policy</li>
-            <li>FAQ</li>
+            <li><a href="/cookie_policy">Cookie Policy</a></li>
+            <li><a href="/faq">FAQ</a></li>
           </ul>
         </div>
 
@@ -659,6 +666,22 @@
             >
           </div>
           <p class="whatsapp-quote">Join us on Whatsapp!</p>
+        </div>
+        <div class="social-section">
+          <div class="social-icons">
+            <a
+              href="https://www.facebook.com/profile.php?id=61579327490750"
+              target="_blank"
+            >
+              <i class="fab fa-facebook-f"></i>
+            </a>
+            <a
+              href="https://www.instagram.com/pickmyfares?igsh=em16eWFhdzduNGR4&utm_source=ig_contact_invite"
+              target="_blank"
+            >
+              <i class="fab fa-instagram"></i>
+            </a>
+          </div>
         </div>
       </div>
 

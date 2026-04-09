@@ -225,6 +225,20 @@ button:hover {
   align-items: center;
   justify-content: center;
 }
+.contact-hero-cookie-policy{
+  height: 250px;
+  background: url("images/Cookie-Policy.jpg") center/cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.contact-hero-faq{
+   height: 250px;
+  background: url("images/faq.jpg") center/cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 .contact-hero-privacy-policy{
   height: 250px;
   background: url("images/policy-banner.jpg") center/cover;

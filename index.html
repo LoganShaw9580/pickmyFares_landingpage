@@ -5,7 +5,11 @@
     <title>Cheap flights from USA | USA Airline Tickets | PickMyFares</title>
     <link rel="stylesheet" href="/style.css" />
     <link rel="stylesheet" href="/footer.css" />
-    <link rel="icon" type="x-icon" href="/favicon.ico">
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+    />
+    <link rel="icon" type="x-icon" href="/favicon.ico" />
   </head>
   <body>
     <div id="loader">
@@ -19,8 +23,8 @@
           <div class="logo-box">
             <h2>PICKMYFARES</h2>
             <p>Travel made personal.</p>
-        </div>
-      </a>
+          </div>
+        </a>
 
         <!-- CENTER (MENU) -->
         <div class="nav-center">
@@ -31,8 +35,20 @@
 
         <!-- RIGHT (CONTACT) -->
         <div class="nav-right">
-          <span ><a  class="nav-right-content" href="mailto:Reservations@pickmyfares.com"> 📧Reservations@pickmyfares.com</a></span>
-          <span>📞 <a  class="nav-right-content" href="tel:+18885061011">+1-888-506-1011</a></span>
+          <span
+            ><a
+              class="nav-right-content"
+              href="mailto:Reservations@pickmyfares.com"
+            >
+              📧Reservations@pickmyfares.com</a
+            ></span
+          >
+          <span
+            >📞
+            <a class="nav-right-content" href="tel:+18885061011"
+              >+1-888-506-1011</a
+            ></span
+          >
         </div>
       </nav>
 
@@ -266,10 +282,7 @@
         <div class="subscribe-content">
           <!-- LEFT -->
           <div class="subscribe-left">
-            <img
-              src="/images/policymail.png"
-              alt="mail"
-            />
+            <img src="/images/policymail.png" alt="mail" />
 
             <div>
               <h2>Get Updates & More</h2>
@@ -279,9 +292,12 @@
 
           <!-- RIGHT -->
           <div class="subscribe-right">
-            <input type="email" placeholder="Email Here..." />
-            <button>Subscribe</button>
+            <input type="email" id="emailInput" placeholder="Email Here..." />
+            <button id="subscribeBtn">Subscribe</button>
           </div>
+
+          <!-- TOOLTIP -->
+          <div id="subscribeMsg">Thanks for subscribing!</div>
         </div>
       </section>
       <!-- POPUP -->
@@ -388,10 +404,10 @@
         <div class="footer-col">
           <h3>Useful Links</h3>
           <ul>
-            <li> <a href="/">Flight Tickets</a></li>
+            <li><a href="/">Flight Tickets</a></li>
             <li><a href="/contact_us">Phone Only Deal</a></li>
-            <li>Cookie Policy</li>
-            <li>FAQ</li>
+            <li><a href="/cookie_policy">Cookie Policy</a></li>
+            <li><a href="/faq">FAQ</a></li>
           </ul>
         </div>
 
@@ -427,13 +443,35 @@
           </div>
           <p class="whatsapp-quote">Join us on Whatsapp!</p>
         </div>
+        <div class="social-section">
+          <div class="social-icons">
+            <a
+              href="https://www.facebook.com/profile.php?id=61579327490750"
+              target="_blank"
+            >
+              <i class="fab fa-facebook-f"></i>
+            </a>
+            <a
+              href="https://www.instagram.com/pickmyfares?igsh=em16eWFhdzduNGR4&utm_source=ig_contact_invite"
+              target="_blank"
+            >
+              <i class="fab fa-instagram"></i>
+            </a>
+          </div>
+        </div>
       </div>
 
       <!-- BOTTOM -->
       <div class="footer-bottom">
         <div class="links">
-          <span class="cancelLink" id="about-us">About Us</span> | <span class="cancelLink"  id="terms-and-condition">Terms of Service</span> | <span class="cancelLink" id="privacy-policy">Privacy Policy</span> |
-          <span class="cancelLink" id="cancelPolicy">Cancellation and refund Policy</span>
+          <span class="cancelLink" id="about-us">About Us</span> |
+          <span class="cancelLink" id="terms-and-condition"
+            >Terms of Service</span
+          >
+          | <span class="cancelLink" id="privacy-policy">Privacy Policy</span> |
+          <span class="cancelLink" id="cancelPolicy"
+            >Cancellation and refund Policy</span
+          >
         </div>
 
         <div class="copyright">
