@@ -112,7 +112,7 @@ window.addEventListener("load", function () {
 
   setTimeout(() => {
     loader.style.display = "none";
-    document.getElementById("content").style.display = "block";
+    document.querySelector(".content").style.display = "block";
   }, 500);
 });
 

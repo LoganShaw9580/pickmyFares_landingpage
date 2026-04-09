@@ -34,6 +34,71 @@ body {
 .nav-right-content:hover {
   color: orange;
 }
+.top-call-bar {
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav-center a {
+  position: relative;
+  text-decoration: none;
+  color: white;
+  margin: 0 15px;
+  transition: 0.3s ease;
+}
+
+.nav-center a:hover {
+  color: #ffd700;
+  transform: translateY(-2px);
+}
+
+.nav-center a::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -5px;
+  width: 0%;
+  height: 2px;
+  background: #ffd700;
+  transition: 0.3s ease;
+}
+
+.nav-center a:hover::after {
+  width: 100%;
+}
+/* LEFT SIDE */
+.call-left {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-right: 10px;
+}
+
+.call-left img {
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+/* TEXT PART */
+.call-left h3 {
+  margin: 0;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.call-left p {
+  margin: 0;
+  font-size: 13px;
+}
+
+/* RIGHT SIDE (FLAG) */
+.call-right img {
+  width: 40px;
+  height: auto;
+}
 #loader {
   position: fixed;
   width: 100%;
@@ -72,6 +137,7 @@ body {
   color: white;
   padding: 10px 20px;
 }
+
 
 /* LEFT */
 .nav-left {
@@ -594,6 +660,7 @@ input[name="trip"] {
   color: #666;
   font-size: 14px;
 }
+
 .destination-cards {
   display: flex;
   gap: 20px;
